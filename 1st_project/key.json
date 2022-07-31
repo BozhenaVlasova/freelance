@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-for-goldennikolas",
+  "private_key_id": "e68b127b371da4367973738eef6972c22c67bcdd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDokwxdgDnwLO/6\nX1mwgZKmpTGcUclNG2nxaKbbq6pV0Oaf5t+knZlTF+VBYYumhbTF8a/DMgrwxgO2\n9iRrY+pOK9hZizuUyGD9H2RbvYl1vIAI0OzoE98xCZKYHEh69AgY5ILt36zjEP2J\nDbV60C0NklA51kVZvyZy3xov9wBb7B92UlVQ5tRsdPKCGOcmRXSwm9cKDLoY8uaX\nevb0QxAxCANEJCLY6+p1Emyh7oQMofMwfOtjiPu5yZNXZypSZWSxhJP3yeFMZTRJ\nMaZJChWbBbgo87vVHpKwBbS1uX97CD3zssuccm31AS3dIBE0V9XHbh6stRkQOhDh\nhQ8/eUtJAgMBAAECggEAA5ILWu2ephZohj9bvwMUO2j2lKPoS13f/9/njOCLLEdZ\nXQvUM+CkA5OutjTfShqMIoxR8pUUeCsQEElh2IC3joTrjL9fliqH26b1WVe08ijn\nTctYUb1JXEU9egaYIcQYkjpC3NBF5RQEEmwylKy4vlg4UVT96lFuD44nhqQ7/g0/\n1eGNWjqyjBcqN9zlMH4ysAqNACS+xV9po+rgRB7UBqpaCuY5Ydv3LoG7QuJq4yh1\nb/eHPyMNaEAWZOv5R+R5BpzWk0+FgMIQZxq3Rse4wfTpDuQAPsL2/qvojqIzbx/E\nqxbf2fzWKMzoRSBJXfgOaNc1EWpFfpN50u9jQUNIEQKBgQD1tsyoGNalSbxN0QVf\ndvMH8Dm6TzDqXGorOQm9b1aRX8mOO185YsrvotlLBFktxDmuz9eTzcKHp1b66GuI\nRTo/CYOWf5K6OzXLdaf0tShLRJxnjsC1dGe1Dp9Ws3GxQNlnuqf5wPf0/o2sEbz2\nslJJVIjArZ9SkdZBmFlcgxV/sQKBgQDyT2/9XC5kbnWE+ZAxbQFGjmNv+nA0Vo0+\ntDd7vRFaJcgOnwtiXRLAn+3wcnEa+o433X1vlnZjdNKL9qpqI+Bk1Nobra/mlynV\nnu8GBX2YKsunGXf5z8GlZWBUZJ6+Zqij0Oa0P/+in9xJhchvxrVmDeqjZWEtO0G1\nSrUENtzDGQKBgQC3hJROaF7IjM3rgNX2ey0BHNbA5Cywnd1d8vfnWKTbZyNu68Ev\nZy4S1RpeAR1qJUi/29QzPFayYrWAKN9HpAzg0AZL/XRlS5veHj4XcsZpkREP93rP\nC+X5QLaZVuTvcnPuGWckDpAjl4vQnF76Ei2LP2v0HLkGPo4758G2auE/wQKBgB3A\nkUCrw+qDAZ0NQ54+Ay0VqLIELyjOA9PSLwnbgjjucK0S7EPsp7PNL1sZwjeM0k+b\nu54q/Ghj3MJgzDXyJ8hZtlo1rmaC4xkexbyYif5YKt9eqjObRey4EObr3+4DDuvm\nZ510SkA+nr7MVXscDAP263uapB74qq3G+YkF739pAoGBALU2l7UwQVZIlPJbsSPE\n8fFG1typs2MVb+K9Tc33lAAO2dhK9oaxI0aI1KR1Em+CAOJsIxGy8ZC5yhN9r0n+\nLfWbVDNRZYV2lkDByS5HmLb9+TewR+jZ+Es+7kx8YZPaUjT68wLd8oyz4MRVbynk\npaLUsKbCrtT594JwotpQKuH2\n-----END PRIVATE KEY-----\n",
+  "client_email": "goldennikolas@bot-for-goldennikolas.iam.gserviceaccount.com",
+  "client_id": "110044721459010321617",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/goldennikolas%40bot-for-goldennikolas.iam.gserviceaccount.com"
+}
